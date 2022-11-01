@@ -1,6 +1,8 @@
 # mini-smart-switch
 Replacement the module WB2S with esp8285
 
+Можно уйти от облачных сервисов без замены модуля! https://github.com/esnet146/mini-smart-switch2
+
 Замена tuya модуля wb2s в переключателе под подрозетник на модуль esp-02s(esp8285) 
 ![photo1658734802](https://user-images.githubusercontent.com/64173457/180724032-31c21be3-d5d2-4619-838f-b1a06e06bd71.jpeg)
 
